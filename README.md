@@ -1,2 +1,2 @@
 # Odd-or-Even
-See the document for the goal of this lab
+This program determines if a number is odd or even
