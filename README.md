@@ -1,2 +1,2 @@
 # Odd-or-Even
-See word document for information
+See the document for the goal of this lab
